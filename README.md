@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **cybersecurity**
 
-- 📝 I regularly write articles on [theolejeune.xyz](theolejeune.xyz)
+- 📝 I regularly write articles on [theolejeune.xyz](http://theolejeune.xyz)
 
 - 💬 Ask me about **anything**
 
