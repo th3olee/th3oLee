@@ -26,20 +26,11 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theolejeune&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theolejeune&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 📫 Get in Touch
 
 [![Website](https://img.shields.io/badge/Website-theolejeune.xyz-blue?style=for-the-badge&logo=globe)](http://theolejeune.xyz)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@theolejeune.xyz)
 
 ---
 
